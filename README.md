@@ -1,5 +1,3 @@
-WORK IN PROGRESS
-
 # pasinta
 An AppleScript that searches for media items in the Photos app from a given date and adds them to an album.
 
