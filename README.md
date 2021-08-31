@@ -1,7 +1,7 @@
 WORK IN PROGRESS
 
 # pasinta
-An Applescript that searches for media items in the Photos app from a given date and adds them to an album.
+An AppleScript that searches for media items in the Photos app from a given date and adds them to an album.
 
 ## Installation
 Download the file pasinta.applescript to your Mac and open it with the application Script Editor, which is preinstalled on all Macs.
