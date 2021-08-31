@@ -19,10 +19,12 @@ After the script is done with its work it will display a dialog with the result:
 
 ![](http://www.schoolscout24.de/img/pasinta/pasinta_result.png)
 
+pasinta will create an album in Photos app with the chosen date string as the album name. If an album with this name already exists, it will add the found media items to this album.
+
 ## Video
 This is a short screen recording about how to use pasinta:
 
-[![Screen recording](http://www.schoolscout24.de/img/commify/commify_video_icon.png)](http://www.schoolscout24.de/img/commify/commify_video.mov)
+[![Screen recording](http://www.schoolscout24.de/img/pasinta/pasinta_movie.png)](http://www.schoolscout24.de/img/pasinta/pasinta.mp4)
 
 ## Why pasinta was written
 I just wanted an easy way to see photos in the Photos app from exactly 1 year ago. And thankfully the Photos app has support for AppleScript.
